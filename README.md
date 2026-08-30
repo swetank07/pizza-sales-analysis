@@ -165,5 +165,8 @@ The project demonstrates an end-to-end analytics workflow:
 
 It showcases practical skills in transforming sales data into an interactive business intelligence solution.
 
+
+## 📊 Dashboard
+
 ![Pizza Sales Dashboard](pizza-sales-dashboard.png)
 
