@@ -121,12 +121,20 @@ The project includes SQL queries for:
 Pizza-Sales-Analysis/
 │
 ├── Pizza_Sales_Dashboard.pbix
+
 ├── Pizza_Sales_Dashboard.pdf
+
 ├── Pizzas sales SQL Queries.sql
+
 ├── README.md
+
 ├── pizza-sales-dashboard.png
+
 ├── pizza_sales.csv
+
 └── pizza_sales_queries.pdf
+
+
 ---
 
 ## 📊 Dashboard
