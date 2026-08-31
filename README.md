@@ -119,7 +119,7 @@ The project includes SQL queries for:
 ## 📁 Repository Structure
 
 Pizza-Sales-Analysis/
-│
+
 ├── Pizza_Sales_Dashboard.pbix
 
 ├── Pizza_Sales_Dashboard.pdf
