@@ -10,6 +10,26 @@ The final output is an interactive **Power BI dashboard** that helps understand 
 
 ---
 
+
+## 📌 Problem Statement
+
+The pizza business generates a large volume of sales data, but raw transactional data alone does not provide a clear view of overall sales performance.
+
+The objective of this project is to analyze pizza sales data and identify important business patterns related to **revenue, orders, quantity sold, pizza categories, pizza sizes, and individual product performance**.
+
+Using **SQL and Power BI**, the project transforms raw sales data into meaningful KPIs and interactive visualizations to answer key business questions such as:
+
+* What is the total revenue and total number of orders?
+* What is the average order value?
+* Which pizza categories and sizes contribute the most to sales?
+* Which pizzas generate the highest revenue?
+* Which pizzas have the highest quantity sold and total orders?
+* Which pizzas are underperforming?
+* How do order volumes change over time?
+
+The final Power BI dashboard provides a centralized view of these metrics and helps stakeholders understand sales performance and make data-driven business decisions.
+
+
 ## 🎯 Business Objectives
 
 * Analyze overall pizza sales performance
