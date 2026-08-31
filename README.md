@@ -116,19 +116,17 @@ The project includes SQL queries for:
 16. Bottom 5 Pizzas by Total Orders
 
 ---
-
 ## 📁 Repository Structure
 
 Pizza-Sales-Analysis/
 │
-├── README.md
-├── pizza_sales.csv
-├── Pizzas sales SQL Queries.sql
-├── pizza_sales_queries.pdf
 ├── Pizza_Sales_Dashboard.pbix
 ├── Pizza_Sales_Dashboard.pdf
-└── pizza-sales-dashboard.png
-
+├── Pizzas sales SQL Queries.sql
+├── README.md
+├── pizza-sales-dashboard.png
+├── pizza_sales.csv
+└── pizza_sales_queries.pdf
 ---
 
 ## 📊 Dashboard
